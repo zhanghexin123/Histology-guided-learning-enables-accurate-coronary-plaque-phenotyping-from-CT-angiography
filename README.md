@@ -1,0 +1,2 @@
+# Histology-guided-learning-enables-accurate-coronary-plaque-phenotyping-from-CT-angiography
+A histology-guided AI framework enables coronary plaque staging and vulnerability assessment from a single photon-counting CT image. Trained on paired ex vivo CT–histology data without spatial registration, it achieved mean accuracies above 95% in five-fold evaluation, supporting non-invasive plaque phenotyping.
